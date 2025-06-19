@@ -1,4 +1,4 @@
-# Unreal Engine generated files
+﻿# Unreal Engine generated files
 Binaries/
 Build/
 DerivedDataCache/
@@ -6,6 +6,9 @@ Intermediate/
 Saved/
 .vscode/
 .vs/
+.idea/
+__ExternalActors__/
+__ExternalObjects__/
 
 # Visual Studio files
 *.sln.docstates
